@@ -1,0 +1,5 @@
+{
+    "db":{
+        "uri": "mongodb+srv://tannoyelectrical:Tannoy123@tannoy.veldxba.mongodb.net/Tannoy?retryWrites=true&w=majority"
+    }
+}
